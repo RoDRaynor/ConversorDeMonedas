@@ -23,7 +23,7 @@ com.thiagov2a.exchango.util: Contiene la clase ConversionMonedas para realizar l
 
                                                 🚀 Cómo Ejecutar el Proyecto
 
-Clonar el Repositorio: git clone https://github.com/tu-usuario/conversor-de-monedas.git
+Clonar el Repositorio: git clone https://github.com/RoDRaynor/ConversorDeMonedas
 Configurar la API Key: Inserte su clave de API en la configuración del proyecto.
 Ejecutar el Proyecto: Utilice su IDE favorito para compilar y ejecutar la clase principal ExchanGo.
 
